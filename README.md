@@ -31,7 +31,7 @@
  library API. 
  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
- These files are compiled and linked with the portaudio library created for your CPU and OS drivers.
- The library and "portaudio.h" should be build path. 
+ These files are compiled and linked with the portaudio library created for your     CPU and OS drivers.
+ The library and "portaudio.h" should be in the build path. 
  The I/O pin specific code (WiringPi) is unique to the Raspberry Pi.
  

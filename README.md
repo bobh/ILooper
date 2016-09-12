@@ -1,8 +1,8 @@
 # ILooper
 * ***************************************************
 * ***************************************************
-* NOTE: If you are looking for the flash image file *
-* go to www.radioobjects.com for the download links *
+  NOTE: If you are looking for the flash image file 
+  go to www.radioobjects.com for the download links 
 * ***************************************************
 * ***************************************************
 * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
